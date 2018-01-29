@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">HarryPotterQuiz</string>
+    <!--Question 01-->
+    <string name="number_01">01</string>
+    <string name="question_01">Wo wohnt Harry Potter?</string>
+    <string name="q01_option1">In Askaban</string>
+    <string name="q01_option2">Im verbotenen Wald</string>
+    <string name="q01_option3">Im Schrank unter der Treppe</string>
+    <string name="hint_Q01">Es war sehr klein...aber auch fein??</string>
+
+    <!--Question 2-->
+    <string name="number_02">02</string>
+    <string name="question_02">Wie heißt der Cousin von Harry Potter?</string>
+    <string name="q02_option1">Ron</string>
+    <string name="q02_option2">Dudley</string>
+    <string name="q02_option3">George</string>
+    <string name="hint_Q02">Er ist der Liebling der Familie und nicht die hellste Kerze auf dem Kuchen.</string>
+
+    <!--Question 3-->
+    <string name="number_03">03</string>
+    <string name="question_03">Wie heißt die Tante von Harry Potter?</string>
+    <string name="q03_option1">Petunia</string>
+    <string name="q03_option2">Ginny</string>
+    <string name="q03_option3">Hermine</string>
+    <string name="hint_Q03">Sie ist die Schwester von Harry Potters Mutter.</string>
+
+    <!--Question 4-->
+    <string name="number_04">04</string>
+    <string name="question_04">Woher bekommt Harry Potter Gold für seine ersten Einkäufe?</string>
+    <string name="q04_option1">Aus dem tropfende Kessel</string>
+    <string name="q04_option2">Von Gringotts</string>
+    <string name="q04_option3">Aus Eeylops Eulenkaufhaus</string>
+    <string name="hint_Q04">Es gilt als absolut einbruchsicher. </string>
+
+    <!--Question 5-->
+    <string name="number_05">05</string>
+    <string name="question_05">Wie sind Harry Potters Eltern gestorben?</string>
+    <string name="q05_option1">Sie wurden von Lord Voldemort getötet</string>
+    <string name="q05_option2">Sie sind bei einem Autounfall gestorben</string>
+    <string name="q05_option3">Sie sind von ihren Besen gefallen</string>
+    <string name="hint_Q05">Du weißt schon wer hat sie umgebracht. </string>
+
+    <!--Question 6-->
+    <string name="number_06">06</string>
+    <string name="question_06">Wer sind Harry Potters beste Freunde?</string>
+    <string name="q06_option1">Ron und Hermine</string>
+    <string name="q06_option2">Vernon und Petunia</string>
+    <string name="q06_option3">Tom Riddle und Professor Snape</string>
+    <string name="hint_Q06">Der eine hat rote Haare und die andere ist das schlauste Mädchen in Hogwarts. </string>
+
+    <!--Question 7-->
+    <string name="number_07">07</string>
+    <string name="question_07">Wen sieht Harry im Spiegel Nerhegeb?</string>
+    <string name="q07_option1">Sich selbst, wie er den Hauspokal erhält</string>
+    <string name="q07_option2">Seine Eltern</string>
+    <string name="q07_option3">Lord Voldemort</string>
+    <string name="hint_Q07">Die Menschen, die er am allermeisten vermisst. </string>
+
+    <!--Question 8-->
+    <string name="number_08">08</string>
+    <string name="question_08">Womit besiegt Harry Potter den Basilisken?</string>
+    <string name="q08_option1">Mit dem Schwert von Godric Gryfindor</string>
+    <string name="q08_option2">Er wird von Fawkes und nicht Harry Potter besiegt</string>
+    <string name="q08_option3">Er blendet ihn mit einem Spiegel</string>
+    <string name="hint_Q08">Mit einem Hilfsmittel des Gründers seines Hauses. </string>
+
+    <!--Question 9-->
+    <string name="number_09">09</string>
+    <string name="question_09">Welches Tier hielt Hagrid zu seiner Schulzeit in Hogwarts versteckt?</string>
+    <string name="q09_option1">Den Hauselfen, Dobbey</string>
+    <string name="q09_option2">Den Hund, Fluffy</string>
+    <string name="q09_option3">Die Spinne, Aragog</string>
+    <string name="hint_Q09">Ron hat große Angst vor diesen Tieren. </string>
+
+    <!--Question 10-->
+    <string name="number_10">10</string>
+    <string name="question_10">Wie viele Geschwister hat Ron?</string>
+    <string name="q10_option1">3 - zwei Brüder und eine Schwester</string>
+    <string name="q10_option2">5 - drei Brüder und zwei Schwestern </string>
+    <string name="q10_option3">6 - fünf Brüder und eine Schwester</string>
+    <string name="hint_Q10">Insgesamt sind es 7 Kinder - Ginny, Ron, Bill, Fred, George, Percy und Charlie. </string>
+
+    <!--Reset/ Subtmit/ Reset/ Results-->
+    <string name="button_reset">Neu</string>
+    <string name="button_submit">Lösung</string>
+    <string name="button_hint">Tipp</string>
+    <string name="total_result">Ergebnis</string>
+    <string name="number_result">0/10</string>
+
+    <!--toast msg-->
+    <string name="toast_msg">Du hast <xliff:g example="0" id="pointsTotal">%d</xliff:g> aus 10 Fragen richtig beantwortet.</string>
+    <string name="toast_winner">Herzlichen Glückwunsch! Du bist ein wahres Harry Potter Genie!</string>
+
+</resources>
