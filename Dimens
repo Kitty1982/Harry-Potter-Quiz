@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!--main padding of application-->
+
+    <dimen name="spacing_main">16dp</dimen>
+
+    <dimen name="spacing_item">6dp</dimen>
+
+    <dimen name="question_text_size">16sp</dimen>
+
+    <dimen name="character_height">100dp</dimen>
+
+    <dimen name="character_width">100dp</dimen>
+
+    <dimen name="icon_size">24dp</dimen>
+
+</resources>
