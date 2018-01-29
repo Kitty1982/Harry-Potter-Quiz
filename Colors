@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+<!--Theme colors-->
+<color name="colorPrimary">#212121</color>
+<color name="colorPrimaryDark">#212121</color>
+<color name="colorAccent">#FF9800</color>
+
+
+<!--Main activity colors-->
+
+<!--color of question separator-->
+<color name="background_separator">#BDBDBD</color>
+
+<!--background color of question number-->
+<color name="background_number">#212121</color>
+
+<!--color of question number-->
+<color name="color_number">#BDBDBD</color>
+
+<!--background of question-->
+<color name="background_question">#757575</color>
+
+<!--color of question text-->
+<color name="color_question">#BDBDBD</color>
+
+<!--color of hint text-->
+<color name="color_hint">#BDBDBD</color>
+
+<!--status image right-->
+<color name="status_img_right">#4caf50</color>
+
+<!--status image wrong-->
+<color name="status_img_wrong">#F44336</color>
+
+<!--button bacckground color-->
+<color name="button_background">#888888</color>
+
+<!--button text color-->
+<color name="button_text">#ffffff</color>
+
+
+
+</resources>
